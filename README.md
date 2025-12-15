@@ -73,11 +73,6 @@
 <!--- statistics --->
 ## 📊 GitHub Statistics & Analysis
 
-### GitHub Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifulislam514/arifulislam514/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arifulislam514/arifulislam514/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ### GitHub Stats
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=arifulislam514&show_icons=true&theme=swift&hide_border=true&cache_seconds=21600" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifulislam514&theme=swift&hide_border=true&layout=compact&cache_seconds=21600" /></a> |
