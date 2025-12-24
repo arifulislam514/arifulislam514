@@ -25,7 +25,7 @@
 - 🎯 **Career Objective:** Full-stack developer with a **backend focus**, experienced in building and deploying end-to-end web apps.
 - ⚙️ Strong in **backend logic, data handling, REST APIs**, and authentication/authorization.
 - 🧩 Comfortable building modern UIs with **React.js + Tailwind CSS**.
-- 🌐 Portfolio: **https://arifulislam514.github.io/AI-Portfolio/**
+- 🌐 Portfolio: **https://ariful-islam-iota.vercel.app/**
 - 📫 Email: **ariful425616@gmail.com**
 - 📍 Location: **Brahmanbaria, Bangladesh**
 
